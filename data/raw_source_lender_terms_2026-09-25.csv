@@ -1,0 +1,33 @@
+lender_name,lender_type,advertised_rate_pct,processing_fee_rule,processing_fee_pct,processing_fee_cap_inr,rate_basis,fee_basis,source_url,collection_date
+Aditya Birla Finance,NBFC,10.99,up_to_pct,4.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Axis Bank,Private Bank,9.99,up_to_pct,2.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Bank of Baroda,Public Bank,10.15,up_to_pct,2.0,10000.0,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Bajaj Finance Limited,NBFC,10.0,up_to_pct,3.93,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Bank of India,Public Bank,10.85,up_to_pct,1.0,15000.0,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Bank of Maharashtra,Public Bank,8.75,up_to_pct,1.0,10000.0,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Canara Bank,Public Bank,9.7,fixed_pct_capped,0.5,5000.0,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Central Bank of India,Public Bank,9.85,up_to_pct,1.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Cholamandalam IFC,NBFC,10.0,range_max_pct,6.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Dhani Loans & Services Ltd.,NBFC,13.99,onwards_pct,3.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Federal Bank,Private Bank,12.0,up_to_pct,2.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+HDB Financial Services,NBFC,10.0,up_to_pct,5.9,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+HDFC Bank,Private Bank,9.99,fixed_inr,,6500.0,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+HSBC Bank,Private Bank,9.75,up_to_pct,2.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+ICICI Bank,Private Bank,9.99,up_to_pct,2.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+IDFC FIRST Bank,Private Bank,9.99,up_to_pct,3.5,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+IIFL Finance,NBFC,12.0,range_max_pct,9.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Indian Overseas Bank,Public Bank,10.25,up_to_pct,0.75,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+IndusInd Bank,Private Bank,10.35,up_to_pct,3.5,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Kotak Mahindra Bank,Private Bank,9.99,up_to_pct,5.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+L&T Finance,NBFC,11.0,up_to_pct,3.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Mahindra Finance,NBFC,8.0,min_2pct_or_5000,,5000.0,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Manappuram Finance,NBFC,18.0,fixed_pct,1.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Moneyview,NBFC,14.0,onwards_pct,2.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Piramal Finance,NBFC,12.14,up_to_pct,5.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Poonawalla Fincorp,NBFC,9.99,up_to_pct,4.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Punjab & Sind Bank,Public Bank,9.6,range_max_pct,1.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Punjab National Bank,Public Bank,10.25,up_to_pct,1.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Shriram Finance,NBFC,11.0,up_to_pct,5.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Tata Capital,NBFC,10.99,up_to_pct,3.5,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+UCO Bank,Public Bank,9.95,up_to_pct,1.0,,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
+Union Bank of India,Public Bank,8.75,up_to_pct,1.0,7500.0,published_starting_rate,published_fee_rule; scenario uses stated maximum/fixed rule,https://www.paisabazaar.com/personal-loan/,2026-09-25
